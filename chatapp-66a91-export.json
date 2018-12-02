@@ -1,0 +1,519 @@
+{
+  "messages" : {
+    "-LSYrZ21WL9uZ0yqmn6g" : {
+      "RecieveID" : "N6uzWTBVa8eVgZfWoIZgu44iv0D3",
+      "SenderID" : "8YW3n9sdgwgCy2xlGK43aKx9wIv1",
+      "TimeSent" : 1543568769,
+      "text" : "Hi Silly"
+    },
+    "-LSYsIxaPG0Jh5bjKuKq" : {
+      "RecieveID" : "JXpdNvZLrhNWY5ShnfAydgltvHd2",
+      "SenderID" : "8YW3n9sdgwgCy2xlGK43aKx9wIv1",
+      "TimeSent" : 1543568965,
+      "text" : "Are you checking as should"
+    },
+    "-LSYt1KeW9szPa-O8DE9" : {
+      "RecieveID" : "eimwBzPjy1OYcbvOIMgUHijrDrv1",
+      "SenderID" : "8YW3n9sdgwgCy2xlGK43aKx9wIv1",
+      "TimeSent" : 1543569155,
+      "text" : "Are you the guy"
+    },
+    "-LSYtCfbSxSUnKbO4yyF" : {
+      "RecieveID" : "wQeJ1EYUxAdHI04mnn6dx9J98nc2",
+      "SenderID" : "8YW3n9sdgwgCy2xlGK43aKx9wIv1",
+      "TimeSent" : 1543569201,
+      "text" : "You the man"
+    },
+    "-LSYtn1Ftu06QLMPwjuJ" : {
+      "RecieveID" : "eimwBzPjy1OYcbvOIMgUHijrDrv1",
+      "SenderID" : "8YW3n9sdgwgCy2xlGK43aKx9wIv1",
+      "TimeSent" : 1543569354,
+      "text" : "Am I reaching you"
+    },
+    "-LS_UI3mqrka8NTYhViH" : {
+      "RecieveID" : "8YW3n9sdgwgCy2xlGK43aKx9wIv1",
+      "SenderID" : "SSZc9bYDkdMxttiQpfRQ5Y0NBlS2",
+      "TimeSent" : 1543595962,
+      "text" : "Weak up and start working"
+    },
+    "-LS_UIsH0H7LsFwtZe4r" : {
+      "RecieveID" : "8YW3n9sdgwgCy2xlGK43aKx9wIv1",
+      "SenderID" : "SSZc9bYDkdMxttiQpfRQ5Y0NBlS2",
+      "TimeSent" : 1543595965,
+      "text" : "Weak up and start working"
+    },
+    "-LS_UJZZ3HVUOPe6T_2Z" : {
+      "RecieveID" : "8YW3n9sdgwgCy2xlGK43aKx9wIv1",
+      "SenderID" : "SSZc9bYDkdMxttiQpfRQ5Y0NBlS2",
+      "TimeSent" : 1543595968,
+      "text" : "Weak up and start working"
+    },
+    "-LS_UJkd41rKO3LoMA5u" : {
+      "RecieveID" : "8YW3n9sdgwgCy2xlGK43aKx9wIv1",
+      "SenderID" : "SSZc9bYDkdMxttiQpfRQ5Y0NBlS2",
+      "TimeSent" : 1543595969,
+      "text" : "Weak up and start working"
+    },
+    "-LS_UNg3CLBb2L4wjf95" : {
+      "RecieveID" : "8YW3n9sdgwgCy2xlGK43aKx9wIv1",
+      "SenderID" : "SSZc9bYDkdMxttiQpfRQ5Y0NBlS2",
+      "TimeSent" : 1543595985,
+      "text" : "Weak up and start working.  Now we need to finish this project"
+    },
+    "-LS_UNyPrQgQfJ3lXwQu" : {
+      "RecieveID" : "8YW3n9sdgwgCy2xlGK43aKx9wIv1",
+      "SenderID" : "SSZc9bYDkdMxttiQpfRQ5Y0NBlS2",
+      "TimeSent" : 1543595986,
+      "text" : "Weak up and start working.  Now we need to finish this project"
+    },
+    "-LS_UO9i2AXyHy7uFmJg" : {
+      "RecieveID" : "8YW3n9sdgwgCy2xlGK43aKx9wIv1",
+      "SenderID" : "SSZc9bYDkdMxttiQpfRQ5Y0NBlS2",
+      "TimeSent" : 1543595987,
+      "text" : "Weak up and start working.  Now we need to finish this project"
+    },
+    "-LS_USnXjttIzA2J5bla" : {
+      "RecieveID" : "eimwBzPjy1OYcbvOIMgUHijrDrv1",
+      "SenderID" : "SSZc9bYDkdMxttiQpfRQ5Y0NBlS2",
+      "TimeSent" : 1543596006,
+      "text" : "Hello??"
+    },
+    "-LS_UT_H3vxi4aZx3Utc" : {
+      "RecieveID" : "eimwBzPjy1OYcbvOIMgUHijrDrv1",
+      "SenderID" : "SSZc9bYDkdMxttiQpfRQ5Y0NBlS2",
+      "TimeSent" : 1543596009,
+      "text" : "Hello??"
+    },
+    "-LS_WkZiMsbzKb2KBysa" : {
+      "RecieveID" : "2GLn6nZhCZU0IM0Avrz2RKIy8U73",
+      "SenderID" : "pOhdj0I7H7eGtoiKXAQeHX0bUW33",
+      "TimeSent" : 1543596607,
+      "text" : "Range rovers are over rated.  I prefer Tesla’s Model X."
+    },
+    "-LS_WtMKz3M2XS1Wc0vD" : {
+      "RecieveID" : "LDDxHifGbZd2euwQjvECukho7My1",
+      "SenderID" : "pOhdj0I7H7eGtoiKXAQeHX0bUW33",
+      "TimeSent" : 1543596643,
+      "text" : "Stranger?"
+    },
+    "-LS_hJyia8sDE7XMXwYo" : {
+      "RecieveID" : "eimwBzPjy1OYcbvOIMgUHijrDrv1",
+      "SenderID" : "8YW3n9sdgwgCy2xlGK43aKx9wIv1",
+      "TimeSent" : 1543599640,
+      "text" : "I can reach you"
+    },
+    "-LS_tmANxYBQg6k-Tvq_" : {
+      "RecieveID" : "eimwBzPjy1OYcbvOIMgUHijrDrv1",
+      "SenderID" : "8YW3n9sdgwgCy2xlGK43aKx9wIv1",
+      "TimeSent" : 1543602905,
+      "text" : "A short message to test"
+    },
+    "-LS_u5Oj6YZGFGD8UcCi" : {
+      "RecieveID" : "eimwBzPjy1OYcbvOIMgUHijrDrv1",
+      "SenderID" : "8YW3n9sdgwgCy2xlGK43aKx9wIv1",
+      "TimeSent" : 1543602988,
+      "text" : "Hello"
+    },
+    "-LS_uNWjW6r2DY1wZ-kb" : {
+      "RecieveID" : "eimwBzPjy1OYcbvOIMgUHijrDrv1",
+      "SenderID" : "8YW3n9sdgwgCy2xlGK43aKx9wIv1",
+      "TimeSent" : 1543603063,
+      "text" : "This message is long and will appear low for some reason but we will continue to work it out"
+    },
+    "-LS_uUGs8wgjZ9k4IVwx" : {
+      "RecieveID" : "eimwBzPjy1OYcbvOIMgUHijrDrv1",
+      "SenderID" : "8YW3n9sdgwgCy2xlGK43aKx9wIv1",
+      "TimeSent" : 1543603090,
+      "text" : "I am trying to add text and it is working well but now I need to test if it is going to far or not or if the top message goes away"
+    },
+    "-LS_uVycPtPEeIeblW-a" : {
+      "RecieveID" : "eimwBzPjy1OYcbvOIMgUHijrDrv1",
+      "SenderID" : "8YW3n9sdgwgCy2xlGK43aKx9wIv1",
+      "TimeSent" : 1543603097,
+      "text" : "This is looking pretty good so fare"
+    },
+    "-LS_uXSsBtSCprwkypkO" : {
+      "RecieveID" : "eimwBzPjy1OYcbvOIMgUHijrDrv1",
+      "SenderID" : "8YW3n9sdgwgCy2xlGK43aKx9wIv1",
+      "TimeSent" : 1543603103,
+      "text" : "I will keep working"
+    },
+    "-LS_uY9IOZUyFvWgvpq_" : {
+      "RecieveID" : "eimwBzPjy1OYcbvOIMgUHijrDrv1",
+      "SenderID" : "8YW3n9sdgwgCy2xlGK43aKx9wIv1",
+      "TimeSent" : 1543603106,
+      "text" : "Yes I can"
+    },
+    "-LS_uYjMZVXyU6KqsJht" : {
+      "RecieveID" : "eimwBzPjy1OYcbvOIMgUHijrDrv1",
+      "SenderID" : "8YW3n9sdgwgCy2xlGK43aKx9wIv1",
+      "TimeSent" : 1543603108,
+      "text" : "Yes I can"
+    },
+    "-LS_u_gONz7OI2eLzywz" : {
+      "RecieveID" : "eimwBzPjy1OYcbvOIMgUHijrDrv1",
+      "SenderID" : "8YW3n9sdgwgCy2xlGK43aKx9wIv1",
+      "TimeSent" : 1543603116,
+      "text" : "Yes i can"
+    },
+    "-LS_uaZFudGLThqrXBzT" : {
+      "RecieveID" : "eimwBzPjy1OYcbvOIMgUHijrDrv1",
+      "SenderID" : "8YW3n9sdgwgCy2xlGK43aKx9wIv1",
+      "TimeSent" : 1543603120,
+      "text" : "Yes I can"
+    },
+    "-LS_ubTEdSqS83tscdgQ" : {
+      "RecieveID" : "eimwBzPjy1OYcbvOIMgUHijrDrv1",
+      "SenderID" : "8YW3n9sdgwgCy2xlGK43aKx9wIv1",
+      "TimeSent" : 1543603124,
+      "text" : "Yes I can"
+    },
+    "-LS_v4Elp6Mn-hR0_WRc" : {
+      "RecieveID" : "8YW3n9sdgwgCy2xlGK43aKx9wIv1",
+      "SenderID" : "eimwBzPjy1OYcbvOIMgUHijrDrv1",
+      "TimeSent" : 1543603246,
+      "text" : "This is the guy"
+    },
+    "-LS_wGVzBRN4hVCNHXU-" : {
+      "RecieveID" : "eimwBzPjy1OYcbvOIMgUHijrDrv1",
+      "SenderID" : "8YW3n9sdgwgCy2xlGK43aKx9wIv1",
+      "TimeSent" : 1543603558,
+      "text" : "It works"
+    },
+    "-LSa57Xcnpq7TynVl_Bv" : {
+      "RecieveID" : "eimwBzPjy1OYcbvOIMgUHijrDrv1",
+      "SenderID" : "8YW3n9sdgwgCy2xlGK43aKx9wIv1",
+      "TimeSent" : 1543606143,
+      "text" : "So far so good you see my messages?"
+    },
+    "-LSa5GcYQ4J-FOzN70oe" : {
+      "RecieveID" : "8YW3n9sdgwgCy2xlGK43aKx9wIv1",
+      "SenderID" : "eimwBzPjy1OYcbvOIMgUHijrDrv1",
+      "TimeSent" : 1543606180,
+      "text" : "Yes I can thanks"
+    },
+    "-LSa6RWRyaH1PjkEBK4t" : {
+      "RecieveID" : "SSZc9bYDkdMxttiQpfRQ5Y0NBlS2",
+      "SenderID" : "8YW3n9sdgwgCy2xlGK43aKx9wIv1",
+      "TimeSent" : 1543606487,
+      "text" : "It works"
+    },
+    "-LSa7P-eAitdqzH3y2Sc" : {
+      "RecieveID" : "eimwBzPjy1OYcbvOIMgUHijrDrv1",
+      "SenderID" : "8YW3n9sdgwgCy2xlGK43aKx9wIv1",
+      "TimeSent" : 1543606738,
+      "text" : "Yes it does"
+    },
+    "-LSa9Rvas41hbiMTcmWZ" : {
+      "RecieveID" : "SSZc9bYDkdMxttiQpfRQ5Y0NBlS2",
+      "SenderID" : "8YW3n9sdgwgCy2xlGK43aKx9wIv1",
+      "TimeSent" : 1543607275,
+      "text" : "It’s working now"
+    },
+    "-LSaDo1MLN2Sn5ZrnScr" : {
+      "RecieveID" : "8YW3n9sdgwgCy2xlGK43aKx9wIv1",
+      "SenderID" : "9m7FOb9AIdMwPYhZcrPinOJyu6T2",
+      "TimeSent" : 1543608418,
+      "text" : "Hi Manish"
+    },
+    "-LSaDpKSiR_N_K6CUE48" : {
+      "RecieveID" : "8YW3n9sdgwgCy2xlGK43aKx9wIv1",
+      "SenderID" : "9m7FOb9AIdMwPYhZcrPinOJyu6T2",
+      "TimeSent" : 1543608423,
+      "text" : "I am a new user"
+    },
+    "-LSaDqM0CGYTExoyRg_d" : {
+      "RecieveID" : "8YW3n9sdgwgCy2xlGK43aKx9wIv1",
+      "SenderID" : "9m7FOb9AIdMwPYhZcrPinOJyu6T2",
+      "TimeSent" : 1543608427,
+      "text" : "Glad to chat"
+    },
+    "-LSaDxcrfdfLoyJ2PVHf" : {
+      "RecieveID" : "9m7FOb9AIdMwPYhZcrPinOJyu6T2",
+      "SenderID" : "8YW3n9sdgwgCy2xlGK43aKx9wIv1",
+      "TimeSent" : 1543608457,
+      "text" : "Leave me alone!"
+    },
+    "-LSaRHqupTVKrKoYgAqI" : {
+      "RecieveID" : "9m7FOb9AIdMwPYhZcrPinOJyu6T2",
+      "SenderID" : "8YW3n9sdgwgCy2xlGK43aKx9wIv1",
+      "TimeSent" : 1543611952,
+      "text" : "This is working so that is good"
+    },
+    "-LSaRPowOam896s0IuyM" : {
+      "RecieveID" : "8YW3n9sdgwgCy2xlGK43aKx9wIv1",
+      "SenderID" : "9m7FOb9AIdMwPYhZcrPinOJyu6T2",
+      "TimeSent" : 1543611985,
+      "text" : "Sweet"
+    },
+    "-LSagTCPqEKS5jV6CsE9" : {
+      "RecieveID" : "9m7FOb9AIdMwPYhZcrPinOJyu6T2",
+      "SenderID" : "8YW3n9sdgwgCy2xlGK43aKx9wIv1",
+      "TimeSent" : 1543616193,
+      "text" : "Hello user"
+    },
+    "-LSaj6VG6E0he0y2tjxE" : {
+      "RecieveID" : "8YW3n9sdgwgCy2xlGK43aKx9wIv1",
+      "SenderID" : "91LOTAptP1TtRJXgDnxK5woDD6c2",
+      "TimeSent" : 1543616886,
+      "text" : "We moving to the final stretch"
+    },
+    "-LSbG5naAWCBkmA6L17b" : {
+      "RecieveID" : "LDDxHifGbZd2euwQjvECukho7My1",
+      "SenderID" : "DEhont7L2UeH9D5MpZ9rAbrSH7N2",
+      "TimeSent" : 1543625796,
+      "text" : "Where is the danger?"
+    },
+    "-LSbi24FL1rSElMod_IY" : {
+      "RecieveID" : "N6uzWTBVa8eVgZfWoIZgu44iv0D3",
+      "SenderID" : "DEhont7L2UeH9D5MpZ9rAbrSH7N2",
+      "TimeSent" : 1543633383,
+      "text" : "Who is  are you?"
+    },
+    "-LScwZlyUK2ppRTHPWvm" : {
+      "RecieveID" : "2DivIqS8kfZP9IfHVQO25HITZrh2",
+      "SenderID" : "staWfduIZSgLRpnept9GThInx4X2",
+      "TimeSent" : 1543653969,
+      "text" : "Hey how are you?"
+    },
+    "-LSefWC0Hf-EfSh0rU-q" : {
+      "RecieveID" : "8YW3n9sdgwgCy2xlGK43aKx9wIv1",
+      "SenderID" : "KwhS4EnD1BeIWR7DF5D93uNH8wn1",
+      "TimeSent" : 1543683052,
+      "text" : "Hey, I think the code works!! Great work!!! You are Awesome!!!!"
+    },
+    "-LSefxpS6Yy4WG3F0zJB" : {
+      "RecieveID" : "KwhS4EnD1BeIWR7DF5D93uNH8wn1",
+      "SenderID" : "QGo2oIp2TKggT9WAWuCStBwURrF3",
+      "TimeSent" : 1543683169,
+      "text" : "Hey let me know if you received my message."
+    },
+    "-LSegDO7Ypero6xH07EF" : {
+      "RecieveID" : "QGo2oIp2TKggT9WAWuCStBwURrF3",
+      "SenderID" : "KwhS4EnD1BeIWR7DF5D93uNH8wn1",
+      "TimeSent" : 1543683237,
+      "text" : "Awesome I got your message.  Now go to bed it’s late."
+    }
+  },
+  "user-messages" : {
+    "2DivIqS8kfZP9IfHVQO25HITZrh2" : {
+      "-LScwZlyUK2ppRTHPWvm" : 1
+    },
+    "2GLn6nZhCZU0IM0Avrz2RKIy8U73" : {
+      "-LS_WkZiMsbzKb2KBysa" : 1
+    },
+    "8YW3n9sdgwgCy2xlGK43aKx9wIv1" : {
+      "-LSYsIxaPG0Jh5bjKuKq" : 1,
+      "-LSYt1KeW9szPa-O8DE9" : 1,
+      "-LSYtCfbSxSUnKbO4yyF" : 1,
+      "-LSYtn1Ftu06QLMPwjuJ" : 1,
+      "-LS_UI3mqrka8NTYhViH" : 1,
+      "-LS_UIsH0H7LsFwtZe4r" : 1,
+      "-LS_UJZZ3HVUOPe6T_2Z" : 1,
+      "-LS_UJkd41rKO3LoMA5u" : 1,
+      "-LS_UNg3CLBb2L4wjf95" : 1,
+      "-LS_UNyPrQgQfJ3lXwQu" : 1,
+      "-LS_UO9i2AXyHy7uFmJg" : 1,
+      "-LS_hJyia8sDE7XMXwYo" : 1,
+      "-LS_qBGzcy-CxeC318K5" : 1,
+      "-LS_qCXAgtPNBZCp6uqU" : 1,
+      "-LS_tmANxYBQg6k-Tvq_" : 1,
+      "-LS_u5Oj6YZGFGD8UcCi" : 1,
+      "-LS_uNWjW6r2DY1wZ-kb" : 1,
+      "-LS_uUGs8wgjZ9k4IVwx" : 1,
+      "-LS_uVycPtPEeIeblW-a" : 1,
+      "-LS_uXSsBtSCprwkypkO" : 1,
+      "-LS_uY9IOZUyFvWgvpq_" : 1,
+      "-LS_uYjMZVXyU6KqsJht" : 1,
+      "-LS_u_gONz7OI2eLzywz" : 1,
+      "-LS_uaZFudGLThqrXBzT" : 1,
+      "-LS_ubTEdSqS83tscdgQ" : 1,
+      "-LS_v4Elp6Mn-hR0_WRc" : 1,
+      "-LS_wGVzBRN4hVCNHXU-" : 1,
+      "-LSa57Xcnpq7TynVl_Bv" : 1,
+      "-LSa5GcYQ4J-FOzN70oe" : 1,
+      "-LSa6RWRyaH1PjkEBK4t" : 1,
+      "-LSa7P-eAitdqzH3y2Sc" : 1,
+      "-LSa9Rvas41hbiMTcmWZ" : 1,
+      "-LSaDo1MLN2Sn5ZrnScr" : 1,
+      "-LSaDpKSiR_N_K6CUE48" : 1,
+      "-LSaDqM0CGYTExoyRg_d" : 1,
+      "-LSaDxcrfdfLoyJ2PVHf" : 1,
+      "-LSaRHqupTVKrKoYgAqI" : 1,
+      "-LSaRPowOam896s0IuyM" : 1,
+      "-LSagTCPqEKS5jV6CsE9" : 1,
+      "-LSaj6VG6E0he0y2tjxE" : 1,
+      "-LSefWC0Hf-EfSh0rU-q" : 1
+    },
+    "91LOTAptP1TtRJXgDnxK5woDD6c2" : {
+      "-LSaj6VG6E0he0y2tjxE" : 1
+    },
+    "9m7FOb9AIdMwPYhZcrPinOJyu6T2" : {
+      "-LSaDo1MLN2Sn5ZrnScr" : 1,
+      "-LSaDpKSiR_N_K6CUE48" : 1,
+      "-LSaDqM0CGYTExoyRg_d" : 1,
+      "-LSaDxcrfdfLoyJ2PVHf" : 1,
+      "-LSaRHqupTVKrKoYgAqI" : 1,
+      "-LSaRPowOam896s0IuyM" : 1,
+      "-LSagTCPqEKS5jV6CsE9" : 1
+    },
+    "DEhont7L2UeH9D5MpZ9rAbrSH7N2" : {
+      "-LSbG5naAWCBkmA6L17b" : 1,
+      "-LSbi24FL1rSElMod_IY" : 1
+    },
+    "KwhS4EnD1BeIWR7DF5D93uNH8wn1" : {
+      "-LSefWC0Hf-EfSh0rU-q" : 1,
+      "-LSefxpS6Yy4WG3F0zJB" : 1,
+      "-LSegDO7Ypero6xH07EF" : 1
+    },
+    "LDDxHifGbZd2euwQjvECukho7My1" : {
+      "-LS_WtMKz3M2XS1Wc0vD" : 1,
+      "-LSbG5naAWCBkmA6L17b" : 1
+    },
+    "N6uzWTBVa8eVgZfWoIZgu44iv0D3" : {
+      "-LSbi24FL1rSElMod_IY" : 1
+    },
+    "QGo2oIp2TKggT9WAWuCStBwURrF3" : {
+      "-LSefxpS6Yy4WG3F0zJB" : 1,
+      "-LSegDO7Ypero6xH07EF" : 1
+    },
+    "SSZc9bYDkdMxttiQpfRQ5Y0NBlS2" : {
+      "-LS_UI3mqrka8NTYhViH" : 1,
+      "-LS_UIsH0H7LsFwtZe4r" : 1,
+      "-LS_UJZZ3HVUOPe6T_2Z" : 1,
+      "-LS_UJkd41rKO3LoMA5u" : 1,
+      "-LS_UNg3CLBb2L4wjf95" : 1,
+      "-LS_UNyPrQgQfJ3lXwQu" : 1,
+      "-LS_UO9i2AXyHy7uFmJg" : 1,
+      "-LS_USnXjttIzA2J5bla" : 1,
+      "-LS_UT_H3vxi4aZx3Utc" : 1,
+      "-LS_qBGzcy-CxeC318K5" : 1,
+      "-LS_qCXAgtPNBZCp6uqU" : 1,
+      "-LSa6RWRyaH1PjkEBK4t" : 1,
+      "-LSa9Rvas41hbiMTcmWZ" : 1
+    },
+    "eimwBzPjy1OYcbvOIMgUHijrDrv1" : {
+      "-LSYtn1Ftu06QLMPwjuJ" : 1,
+      "-LS_USnXjttIzA2J5bla" : 1,
+      "-LS_UT_H3vxi4aZx3Utc" : 1,
+      "-LS_hJyia8sDE7XMXwYo" : 1,
+      "-LS_tmANxYBQg6k-Tvq_" : 1,
+      "-LS_u5Oj6YZGFGD8UcCi" : 1,
+      "-LS_uNWjW6r2DY1wZ-kb" : 1,
+      "-LS_uUGs8wgjZ9k4IVwx" : 1,
+      "-LS_uVycPtPEeIeblW-a" : 1,
+      "-LS_uXSsBtSCprwkypkO" : 1,
+      "-LS_uY9IOZUyFvWgvpq_" : 1,
+      "-LS_uYjMZVXyU6KqsJht" : 1,
+      "-LS_u_gONz7OI2eLzywz" : 1,
+      "-LS_uaZFudGLThqrXBzT" : 1,
+      "-LS_ubTEdSqS83tscdgQ" : 1,
+      "-LS_v4Elp6Mn-hR0_WRc" : 1,
+      "-LS_wGVzBRN4hVCNHXU-" : 1,
+      "-LSa57Xcnpq7TynVl_Bv" : 1,
+      "-LSa5GcYQ4J-FOzN70oe" : 1,
+      "-LSa7P-eAitdqzH3y2Sc" : 1
+    },
+    "pOhdj0I7H7eGtoiKXAQeHX0bUW33" : {
+      "-LS_WkZiMsbzKb2KBysa" : 1,
+      "-LS_WtMKz3M2XS1Wc0vD" : 1
+    },
+    "staWfduIZSgLRpnept9GThInx4X2" : {
+      "-LScwZlyUK2ppRTHPWvm" : 1
+    }
+  },
+  "users" : {
+    "2DivIqS8kfZP9IfHVQO25HITZrh2" : {
+      "email" : "BobRange@gmail.com",
+      "name" : "Bob Range"
+    },
+    "2GLn6nZhCZU0IM0Avrz2RKIy8U73" : {
+      "email" : "RangeRover@gmail.com",
+      "name" : "RangeRover"
+    },
+    "374nwLKhWSW1e9lHVBgxaagWeND3" : {
+      "email" : "BillyBoy@gmail.com",
+      "name" : "BillyBoy"
+    },
+    "8YW3n9sdgwgCy2xlGK43aKx9wIv1" : {
+      "email" : "Ml394@njit.edu",
+      "name" : "Manish Singh"
+    },
+    "91LOTAptP1TtRJXgDnxK5woDD6c2" : {
+      "email" : "TheTryingPush@gmail.com",
+      "name" : "TheTryingPush"
+    },
+    "9m7FOb9AIdMwPYhZcrPinOJyu6T2" : {
+      "email" : "CompleteUser@gmail.com",
+      "name" : "CompleteUser"
+    },
+    "Is7JZdivh0bXuWlqZ88D5IWBxgy2" : {
+      "email" : "Myrie65@gmail.com",
+      "name" : "Myrie65"
+    },
+    "JXpdNvZLrhNWY5ShnfAydgltvHd2" : {
+      "email" : "CheckingDude@gmail.com",
+      "name" : "CheckingDude"
+    },
+    "KwhS4EnD1BeIWR7DF5D93uNH8wn1" : {
+      "email" : "Testerrayon1@gmail.com",
+      "name" : "Testerrayon1"
+    },
+    "LDDxHifGbZd2euwQjvECukho7My1" : {
+      "email" : "StrangerDanger@gmail.com",
+      "name" : "StrangerDanger"
+    },
+    "N6uzWTBVa8eVgZfWoIZgu44iv0D3" : {
+      "email" : "SillyGoose@gmail.com",
+      "name" : "SillyGoose"
+    },
+    "QGo2oIp2TKggT9WAWuCStBwURrF3" : {
+      "email" : "Tester2@gmail.com",
+      "name" : "Tester2"
+    },
+    "V16me4VenddHRJZGG3UtZc9vPp02" : {
+      "email" : "CompletedProject@gmail.com",
+      "name" : "CompletedProject"
+    },
+    "eimwBzPjy1OYcbvOIMgUHijrDrv1" : {
+      "email" : "TheGuy@gmail.com",
+      "name" : "The Guy"
+    },
+    "iExYlFUxfgYzeDl21NvhEpFdvvn1" : {
+      "email" : "JohnDoe@gmail.com",
+      "name" : "John Doe"
+    },
+    "mRRNqg790ceinIF7C8w6vCQFqEy1" : {
+      "email" : "TheKeyboardWorks@gmail.com",
+      "name" : "TheKeyboardWorks"
+    },
+    "staWfduIZSgLRpnept9GThInx4X2" : {
+      "email" : "Rayon51@gmail.com",
+      "name" : "rayon51"
+    },
+    "tB56YKCi7wa7ccRs1r4zBXwziS93" : {
+      "email" : "JohnnyBoyGo@gmail.com",
+      "name" : "JohnnyBoyGo"
+    },
+    "wKjOeUbtIHYbB4DcBMrf89zF4fX2" : {
+      "email" : "TryingDude@gmail.com",
+      "name" : "TryingDude"
+    },
+    "wQeJ1EYUxAdHI04mnn6dx9J98nc2" : {
+      "email" : "TheManBoy@gmail.com",
+      "name" : "TheManBoy"
+    },
+    "xsxlwIftFCfgfGoT4mRnsNu0rIH2" : {
+      "email" : "WillyWanka@gmail.com",
+      "name" : "WillyWanka"
+    },
+    "zIzbyRfZIUOVbE24hjeUxRskprG2" : {
+      "email" : "RobbyWill@gmail.com",
+      "name" : "RobbyWill"
+    },
+    "zmjBPTk91yOcLN5RFFx2aSfiDQJ3" : {
+      "email" : "JoeyWill@gmail.com",
+      "name" : "JoeyWill"
+    }
+  }
+}
